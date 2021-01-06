@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "718287711641",
+    "firebase_url": "https://meetair-736a5.firebaseio.com",
+    "project_id": "meetair-736a5",
+    "storage_bucket": "meetair-736a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718287711641:android:369647cb0ed6ce67887708",
+        "android_client_info": {
+          "package_name": "com.spagreen.meetair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718287711641-98sn70dgq7tc9ltc0h22av6q6tm4hmhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spagreen.meetair",
+            "certificate_hash": "4b8f6522d64da3f474d9996a6aefa551a3998bb3"
+          }
+        },
+        {
+          "client_id": "718287711641-8r87qfuq77p9991jn716b7dg8ok74468.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spagreen.meetair",
+            "certificate_hash": "b799c3c5fb096c417752deeaa6013f6c13abe614"
+          }
+        },
+        {
+          "client_id": "718287711641-d6phgl96ijuhqai4en2hod6en4esabr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spagreen.meetair",
+            "certificate_hash": "6843d7a7f83b8bc9d338a1fb030a18efc466ade9"
+          }
+        },
+        {
+          "client_id": "718287711641-ri8d1r2gssifhj3bresqklu3u415bfo7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spagreen.meetair",
+            "certificate_hash": "52f420f5d753643984f7cd30035c0d20c12671dd"
+          }
+        },
+        {
+          "client_id": "718287711641-mf0cjli1pipgmv0tdtc8rj7m85omjkvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTjW8pxpdkxtKLPjPsvavcFv1AXME9F3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718287711641-mf0cjli1pipgmv0tdtc8rj7m85omjkvh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718287711641-c179tk5edgoqnudmg9181tf4kttscjf4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spagreen.meetair"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
